@@ -17,7 +17,6 @@
     "test": "echo 'No test specified'",
     "clean": "rimraf ./gatsby-node.js",
     "build": "babel src --out-dir .",
-    "prepare": "yarn clean && cross-env NODE_ENV=production yarn build && husky install",
     "watch": "babel -w src --out-dir .",
     "semantic-release": "semantic-release"
   },
