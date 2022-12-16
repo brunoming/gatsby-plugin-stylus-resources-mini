@@ -21,19 +21,19 @@
     "watch": "babel -w src --out-dir .",
     "semantic-release": "semantic-release"
   },
-  "author": "Jimmy Beldone <dev.jimmy.beldone@gmail.com>",
+  "author": "",
   "bugs": {
-    "url": "https://github.com/JimmyBeldone/gatsby-plugin-stylus-resources/issues"
+    "url": "https://github.com/brunoming/gatsby-plugin-stylus-resources-mini/issues"
   },
   "license": "MIT",
   "main": "./index.js",
   "peerDependencies": {
     "gatsby": "^3.0.0 || ^4.0.0"
   },
-  "homepage": "https://github.com/JimmyBeldone/gatsby-plugin-stylus-resources",
+  "homepage": "https://github.com/brunoming/gatsby-plugin-stylus-resources-mini",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JimmyBeldone/gatsby-plugin-stylus-resources.git"
+    "url": "git+https://github.com/brunoming/gatsby-plugin-stylus-resources-mini.git"
   },
   "dependencies": {
     "@babel/runtime": "^7.17.8",
