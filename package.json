@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-stylus-resources-mini",
   "description": "Gatsby support for Stylus with resources (e.g. variables, mixins etc.)",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
@@ -20,14 +20,14 @@
     "watch": "babel -w src --out-dir .",
     "semantic-release": "semantic-release"
   },
-  "author": "",
+  "author": "Brunoming <dev.brunoming1996@gmail.com>",
   "bugs": {
     "url": "https://github.com/brunoming/gatsby-plugin-stylus-resources-mini/issues"
   },
   "license": "MIT",
   "main": "./index.js",
   "peerDependencies": {
-    "gatsby": "^3.0.0 || ^4.0.0"
+    "gatsby": "^5.0.0"
   },
   "homepage": "https://github.com/brunoming/gatsby-plugin-stylus-resources-mini",
   "repository": {
